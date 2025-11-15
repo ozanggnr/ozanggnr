@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ozan</h1>
 <h3 align="center">Senior CTIS Student at Bilkent University</h3>
 
-- 🌱 I’m currently learning **C# & Deep Learning**
+- 🌱 I’m currently learning **.Net & Deep Learning**
 
 - 📫 How to reach me **ozanggnr@gmail.com**
-
-- ⚡ Fun fact **If there’s a ball, a court, or a field, chances are I’m watching.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
