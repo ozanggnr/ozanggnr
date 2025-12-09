@@ -11,7 +11,3 @@
 <a href="https://stackoverflow.com/users/15727172/max1m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:15727172" height="30" width="40" /></a>
 <a href="https://medium.com/@ozanggnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ozanggnr" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozanggnr&show_icons=true&locale=en&layout=compact" alt="ozanggnr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozanggnr&show_icons=true&locale=en" alt="ozanggnr" /></p>
