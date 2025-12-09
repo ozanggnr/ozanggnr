@@ -1,13 +1,21 @@
-<h1 align="center">Hi 👋, I'm Ozan</h1>
-<h3 align="center">Senior CTIS Student at Bilkent University</h3>
+# Hello 👋, I'm Ozan
+### Senior CTIS Student at Bilkent University
 
-- 🌱 I’m currently learning **.Net & Deep Learning**
+I’m currently learning .Net & Deep Learning
+How to reach me ozanggnr@gmail.com
 
-- 📫 How to reach me **ozanggnr@gmail.com**
+## Contact Me
+<p><a href="https://www.linkedin.com/in/ozangngr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://medium.com/@ozanggnr" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ozangngr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ozangngr/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15727172/max1m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:15727172" height="30" width="40" /></a>
-<a href="https://medium.com/@ozanggnr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ozanggnr" height="30" width="40" /></a>
-</p>
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=ozanggnr&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanggnr&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ozanggnr&theme=null" alt="GitHub Streak" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ozanggnr&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
+
