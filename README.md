@@ -1,6 +1,3 @@
-# 💫 About Me:
-I’m currently learning .NET & Deep Learning<br>How to reach me ozanggnr@gmail.com
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozangngr/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ozanggnr) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15727172) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ozanggnr@gmail.com) 
@@ -15,7 +12,3 @@ I’m currently learning .NET & Deep Learning<br>How to reach me ozanggnr@gmail.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ozanggnr&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
