@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🌱 I’m currently learning Deep Learning & Blockchain<br><br>📫 How to reach me ozanggnr@gmail.com <br>ozangungor.page<br><br>⚡ Fun fact: I'm interested in every sport in the world
+🌱 I’m currently learning Deep Learning & Blockchain<br><br>📫 How to reach me ozanggnr@gmail.com <br> <br>[ozangungor.page](https://ozangungor.page/)<br><br>⚡ Fun fact: I'm interested in every sport in the world
 
 
 # 💻 Tech Stack:
