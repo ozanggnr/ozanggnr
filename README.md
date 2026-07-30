@@ -91,12 +91,4 @@ fun_fact: "I'm interested in EVERY sport in the world — yes, even curling 🥌
 
 </div>
 
----
 
-<div align="center">
-
-*"The best way to predict the future is to create it."* 🚀
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=500&color=70A5FD&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Star+a+repo+if+you+find+it+useful+%E2%AD%90;Let%27s+build+something+great+together!+%F0%9F%9A%80" alt="Footer Typing" />
-
-</div>
