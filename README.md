@@ -45,7 +45,6 @@ interests:
   - Contributing to open-source projects
   - Every sport in the world ⚽🏀🏊
 
-fun_fact: "I'm interested in EVERY sport in the world — yes, even curling 🥌"
 ```
 
 ---
