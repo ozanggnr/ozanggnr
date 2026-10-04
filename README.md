@@ -175,16 +175,6 @@ Here is a curated selection of major projects spanning different programming par
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Ozan GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ozanggnr&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ozanggnr)
-
-</div>
-
----
-
 ## 🌐 Let us Connect
 
 <div align="center">
